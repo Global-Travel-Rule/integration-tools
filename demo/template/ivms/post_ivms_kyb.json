@@ -1,0 +1,158 @@
+{
+    "ivms101": {
+        "OriginatingVASP": {
+            "originatingVASP": {
+                "legalPerson": {
+                    "name": {
+                        "nameIdentifier": [
+                            {
+                                "legalPersonName": "Originator VASP Company Name - VVVV Inc.",
+                                "legalPersonNameIdentifierType": "LEGL"
+                            }
+                        ]
+                    },
+                    "nationalIdentification": {
+                        "nationalIdentifierType": "RAID",
+                        "registrationAuthority": "RA000388 (i.e: 香港公司註冊處核發 Hong Kong Company Registry Approved, For more please check: https://www.gleif.org/en/about-lei/code-lists/gleif-registration-authorities-list)",
+                        "countryOfIssue": "HK",
+                        "nationalIdentifier": "69104532 (i.e: Your Company ID from authroity)"
+                    },
+                    "geographicAddress": [
+                        {
+                            "country": "HK",
+                            "townName": "Hong Kong",
+                            "addressType": "GEOG",
+                            "addressLine": [
+                                "Please fill your address here"
+                            ]
+                        }
+                    ],
+                    "countryOfRegistration": "HK"
+                }
+            }
+        },
+        "Originator": {
+            "accountNumber": [
+                ""
+            ],
+            "originatorPersons": [
+                {
+                    "legalPerson": {
+                        "name": {
+                            "nameIdentifier": [
+                                {
+                                    "legalPersonName": "Simulation Business Company Inc.",
+                                    "legalPersonNameIdentifierType": "LEGL"
+                                }
+                            ]
+                        },
+                        "countryOfRegistration": "",
+                        "nationalIdentification": {
+                            "nationalIdentifier": "",
+                            "nationalIdentifierType": "",
+                            "countryOfIssue": "",
+                            "registrationAuthority": ""
+                        },
+                        "geographicAddress": [
+                            {
+                                "addressType": "",
+                                "postCode": "",
+                                "townName": "",
+                                "addressLine": [
+                                    ""
+                                ],
+                                "country": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "naturalPerson": {
+                        "dateAndPlaceOfBirth": {
+                            "placeOfBirth": "US",
+                            "dateOfBirth": "1986-11-21"
+                        },
+                        "name": {
+                            "localNameIdentifier": [
+                                {
+                                    "nameIdentifierType": "LEGL",
+                                    "primaryIdentifier": "Satoshi",
+                                    "secondaryIdentifier": "Nakamoto"
+                                }
+                            ],
+                            "nameIdentifier": [
+                                {
+                                    "nameIdentifierType": "LEGL",
+                                    "primaryIdentifier": "Satoshi",
+                                    "secondaryIdentifier": "Nakamoto"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "Beneficiary": {
+            "beneficiaryPersons": [
+                {
+                    "naturalPerson": {
+                        "dateAndPlaceOfBirth": {
+                            "placeOfBirth": "US",
+                            "dateOfBirth": "1986-11-21"
+                        },
+                        "name": {
+                            "localNameIdentifier": [
+                                {
+                                    "nameIdentifierType": "LEGL",
+                                    "primaryIdentifier": "Satoshi",
+                                    "secondaryIdentifier": "Nakamoto"
+                                }
+                            ],
+                            "nameIdentifier": [
+                                {
+                                    "nameIdentifierType": "LEGL",
+                                    "primaryIdentifier": "Satoshi",
+                                    "secondaryIdentifier": "Nakamoto"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "accountNumber": [
+                "0xb7f9a622c34652cd8f54de97a15281b98a8114ac"
+            ]
+        },
+        "BeneficiaryVASP": {
+            "beneficiaryVASP": {
+                "legalPerson": {
+                    "name": {
+                        "nameIdentifier": [
+                            {
+                                "legalPersonName": "Originator VASP Company Name - VVVV Inc.",
+                                "legalPersonNameIdentifierType": "LEGL"
+                            }
+                        ]
+                    },
+                    "nationalIdentification": {
+                        "nationalIdentifierType": "RAID",
+                        "registrationAuthority": "RA000388 (i.e: 香港公司註冊處核發 Hong Kong Company Registry Approved, For more please check: https://www.gleif.org/en/about-lei/code-lists/gleif-registration-authorities-list)",
+                        "countryOfIssue": "HK",
+                        "nationalIdentifier": "69104532 (i.e: Your Company ID from authroity)"
+                    },
+                    "geographicAddress": [
+                        {
+                            "country": "HK",
+                            "townName": "Hong Kong",
+                            "addressType": "GEOG",
+                            "addressLine": [
+                                "Please fill your address here"
+                            ]
+                        }
+                    ],
+                    "countryOfRegistration": "HK"
+                }
+            }
+        }
+    }
+}
